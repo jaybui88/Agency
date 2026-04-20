@@ -260,6 +260,58 @@ textarea {
   padding: 52px 0 28px;
 }
 
+.page-hero.has-media {
+  align-items: stretch;
+  grid-template-columns: minmax(0, 1fr) minmax(340px, 0.92fr);
+  gap: 24px;
+}
+
+.page-hero-copy {
+  align-self: center;
+}
+
+.page-hero-media {
+  position: relative;
+  min-height: 520px;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  box-shadow: var(--shadow);
+  background:
+    linear-gradient(180deg, rgba(7, 18, 29, 0.08), rgba(7, 18, 29, 0.68)),
+    rgba(255, 255, 255, 0.03);
+}
+
+.page-hero-media img {
+  object-fit: cover;
+}
+
+.page-hero-media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(7, 18, 29, 0.06), rgba(7, 18, 29, 0.76));
+  pointer-events: none;
+}
+
+.page-hero-media figcaption {
+  position: absolute;
+  left: 18px;
+  right: 18px;
+  bottom: 18px;
+  z-index: 2;
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 16px;
+  background: rgba(7, 18, 29, 0.66);
+  backdrop-filter: blur(12px);
+  color: var(--text);
+  font-size: 0.92rem;
+  font-weight: 500;
+  line-height: 1.65;
+}
+
 .eyebrow {
   margin: 0 0 12px;
   color: var(--gold-strong);
@@ -926,6 +978,14 @@ h3 {
   .hero-metrics-row {
     grid-template-columns: 1fr;
   }
+
+  .page-hero.has-media {
+    grid-template-columns: 1fr;
+  }
+
+  .page-hero-media {
+    min-height: 420px;
+  }
 }
 
 @media (max-width: 720px) {
@@ -977,7 +1037,8 @@ h3 {
   .hero-showcase,
   .hero-support-card,
   .project-media,
-  .gallery-card {
+  .gallery-card,
+  .page-hero-media {
     border-radius: 22px;
   }
 
