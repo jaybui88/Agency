@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0A1622"/>
+  <rect y="600" width="1200" height="300" fill="#0D1D2D"/>
+  <rect x="86" y="150" width="280" height="450" rx="24" fill="#132F47"/>
+  <rect x="404" y="220" width="220" height="380" rx="24" fill="#1A3F5E"/>
+  <rect x="656" y="280" width="220" height="320" rx="24" fill="#132F47"/>
+  <rect x="908" y="180" width="210" height="420" rx="24" fill="#1A3F5E"/>
+  <rect x="300" y="540" width="600" height="32" rx="16" fill="#D1AA5A"/>
+  <text x="92" y="742" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="700">NHA MAY - CONG KIEM SOAT</text>
+</svg>

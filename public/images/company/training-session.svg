@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0A1622"/>
+  <rect x="88" y="92" width="1024" height="716" rx="32" fill="#10263A"/>
+  <rect x="144" y="152" width="432" height="220" rx="24" fill="#D1AA5A"/>
+  <rect x="632" y="152" width="424" height="220" rx="24" fill="#132F47"/>
+  <circle cx="262" cy="578" r="50" fill="#D1AA5A"/>
+  <circle cx="438" cy="578" r="50" fill="#D1AA5A"/>
+  <circle cx="614" cy="578" r="50" fill="#D1AA5A"/>
+  <circle cx="790" cy="578" r="50" fill="#D1AA5A"/>
+  <circle cx="966" cy="578" r="50" fill="#D1AA5A"/>
+  <rect x="216" y="642" width="92" height="98" rx="18" fill="#D1AA5A"/>
+  <rect x="392" y="642" width="92" height="98" rx="18" fill="#D1AA5A"/>
+  <rect x="568" y="642" width="92" height="98" rx="18" fill="#D1AA5A"/>
+  <rect x="744" y="642" width="92" height="98" rx="18" fill="#D1AA5A"/>
+  <rect x="920" y="642" width="92" height="98" rx="18" fill="#D1AA5A"/>
+  <text x="144" y="438" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="700">DAO TAO NGHIEP VU</text>
+</svg>

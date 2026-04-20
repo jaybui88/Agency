@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0B1723"/>
+  <rect x="94" y="92" width="1012" height="716" rx="30" fill="#10263A"/>
+  <rect x="144" y="176" width="912" height="144" rx="18" fill="#132F47"/>
+  <rect x="144" y="372" width="256" height="284" rx="18" fill="#1A3F5E"/>
+  <rect x="474" y="372" width="256" height="284" rx="18" fill="#1A3F5E"/>
+  <rect x="804" y="372" width="252" height="284" rx="18" fill="#1A3F5E"/>
+  <rect x="228" y="694" width="744" height="40" rx="20" fill="#D1AA5A"/>
+  <text x="144" y="770" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="700">CHOT KIEM SOAT CONG RA VAO</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0A1622"/>
+  <rect x="92" y="92" width="1016" height="716" rx="30" fill="#10263A"/>
+  <rect x="146" y="146" width="908" height="256" rx="24" fill="#DCE5EC"/>
+  <rect x="226" y="482" width="132" height="240" rx="18" fill="#D1AA5A"/>
+  <rect x="536" y="482" width="132" height="240" rx="18" fill="#D1AA5A"/>
+  <rect x="846" y="482" width="132" height="240" rx="18" fill="#D1AA5A"/>
+  <text x="146" y="782" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="700">TOA NHA - KHU VUC SANH</text>
+</svg>

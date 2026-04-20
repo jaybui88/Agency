@@ -1,0 +1,11 @@
+.next
+node_modules
+out
+dist
+coverage
+*.log
+lighthouse-reports
+.lighthouse-chrome-profile
+playwright-report
+test-results
+Pictures

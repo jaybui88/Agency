@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#09131D"/>
+  <rect y="590" width="1200" height="310" fill="#10263A"/>
+  <polygon points="150,610 360,260 570,610" fill="#D1AA5A"/>
+  <polygon points="470,610 700,210 930,610" fill="#C9973E"/>
+  <rect x="150" y="646" width="810" height="40" rx="20" fill="#E7BC65"/>
+  <rect x="986" y="220" width="80" height="370" rx="16" fill="#1A3F5E"/>
+  <rect x="930" y="220" width="196" height="42" rx="12" fill="#1A3F5E"/>
+  <text x="114" y="776" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="700">CONG TRUONG - KIEM SOAT VAT TU</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#09131D"/>
+  <rect x="80" y="96" width="1040" height="708" rx="32" fill="#10263A"/>
+  <rect x="136" y="150" width="928" height="210" rx="24" fill="#132F47"/>
+  <circle cx="286" cy="550" r="56" fill="#D1AA5A"/>
+  <circle cx="460" cy="550" r="56" fill="#D1AA5A"/>
+  <circle cx="634" cy="550" r="56" fill="#D1AA5A"/>
+  <circle cx="808" cy="550" r="56" fill="#D1AA5A"/>
+  <circle cx="982" cy="550" r="56" fill="#D1AA5A"/>
+  <rect x="240" y="622" width="92" height="120" rx="18" fill="#D1AA5A"/>
+  <rect x="414" y="622" width="92" height="120" rx="18" fill="#D1AA5A"/>
+  <rect x="588" y="622" width="92" height="120" rx="18" fill="#D1AA5A"/>
+  <rect x="762" y="622" width="92" height="120" rx="18" fill="#D1AA5A"/>
+  <rect x="936" y="622" width="92" height="120" rx="18" fill="#D1AA5A"/>
+  <text x="136" y="430" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="700">BAO VE SU KIEN DOANH NGHIEP</text>
+</svg>

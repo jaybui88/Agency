@@ -1,0 +1,15 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0A1622"/>
+  <rect x="96" y="80" width="1008" height="740" rx="34" fill="#10263A"/>
+  <rect x="168" y="118" width="864" height="210" rx="24" fill="#D7E1EA"/>
+  <rect x="192" y="372" width="220" height="330" rx="22" fill="#1A3F5E"/>
+  <rect x="490" y="372" width="220" height="330" rx="22" fill="#1A3F5E"/>
+  <rect x="788" y="372" width="220" height="330" rx="22" fill="#1A3F5E"/>
+  <circle cx="302" cy="460" r="48" fill="#D1AA5A"/>
+  <circle cx="600" cy="460" r="48" fill="#D1AA5A"/>
+  <circle cx="898" cy="460" r="48" fill="#D1AA5A"/>
+  <rect x="244" y="526" width="116" height="124" rx="18" fill="#D1AA5A"/>
+  <rect x="542" y="526" width="116" height="124" rx="18" fill="#D1AA5A"/>
+  <rect x="840" y="526" width="116" height="124" rx="18" fill="#D1AA5A"/>
+  <text x="168" y="782" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="48" font-weight="700">DOI NGU TRUC SANH</text>
+</svg>

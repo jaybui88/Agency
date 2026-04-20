@@ -1,0 +1,34 @@
+<svg width="700" height="180" viewBox="0 0 700 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="180" rx="32" fill="none"/>
+  <g>
+    <rect x="8" y="10" width="160" height="160" rx="34" fill="#08131D"/>
+    <rect x="18" y="20" width="140" height="140" rx="28" fill="url(#panel)" stroke="rgba(255,255,255,0.12)"/>
+    <path d="M88 30L132 48V90C132 118.74 113.84 143.65 88 152C62.16 143.65 44 118.74 44 90V48L88 30Z" fill="url(#shieldOuter)"/>
+    <path d="M88 41L122 54.8V89.2C122 111.55 108.19 131.14 88 138.42C67.81 131.14 54 111.55 54 89.2V54.8L88 41Z" fill="#091420" stroke="#F3CF82" stroke-width="2.5"/>
+    <path d="M88 52L100.2 76.7L127 80.59L107.5 99.56L112.1 126.35L88 113.68L63.9 126.35L68.5 99.56L49 80.59L75.8 76.7L88 52Z" fill="url(#star)"/>
+    <path d="M72 109V72H85.5C94.89 72 101 77.69 101 86.62C101 96.68 93.94 103 84.45 103H79.45V109H72ZM79.45 96.38H84.55C89.58 96.38 93.1 92.95 93.1 87.23C93.1 81.73 89.58 78.62 84.55 78.62H79.45V96.38Z" fill="#08131D"/>
+    <path d="M103.6 109L118.36 72H125.88L140.72 109H132.53L129.22 100.08H115.01L111.7 109H103.6ZM117.23 94.12H127L122.13 81.05L117.23 94.12Z" fill="#08131D"/>
+  </g>
+  <text x="198" y="82" fill="#ECF2F8" font-family="Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="1">ANH DUONG</text>
+  <text x="198" y="123" fill="#E7BC65" font-family="Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="5">SECURITY</text>
+  <rect x="198" y="138" width="238" height="3" rx="1.5" fill="url(#line)"/>
+  <text x="198" y="160" fill="#9EB0C2" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">DISCIPLINE - RELIABILITY - RESPONSE</text>
+  <defs>
+    <linearGradient id="panel" x1="32" y1="28" x2="146" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10273C"/>
+      <stop offset="1" stop-color="#0A1A29"/>
+    </linearGradient>
+    <linearGradient id="shieldOuter" x1="44" y1="30" x2="132" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A4160"/>
+      <stop offset="1" stop-color="#0C2233"/>
+    </linearGradient>
+    <linearGradient id="star" x1="49" y1="52" x2="127" y2="126" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D78E"/>
+      <stop offset="1" stop-color="#C89431"/>
+    </linearGradient>
+    <linearGradient id="line" x1="198" y1="139.5" x2="436" y2="139.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3CF82"/>
+      <stop offset="1" stop-color="#B9852B"/>
+    </linearGradient>
+  </defs>
+</svg>
