@@ -44,20 +44,20 @@ export const companyStats = [
 
 export const heroPhotos = [
   {
-    src: "/images/real/hero-meeting-wide.jpg",
-    alt: "Đội ngũ bảo vệ họp triển khai phương án tại phòng họp",
-    caption: "Họp triển khai phương án bảo vệ",
+    src: "/images/real/ads-01.jpg",
+    alt: "Hình ảnh đội ngũ bảo vệ triển khai tại mục tiêu thực tế",
+    caption: "Triển khai lực lượng theo phương án thực tế",
     featured: true,
   },
   {
-    src: "/images/real/team-rollcall-night.jpg",
-    alt: "Đội ngũ bảo vệ điểm danh và nhận nhiệm vụ ngoài hiện trường",
-    caption: "Điểm danh và giao ca tại mục tiêu",
+    src: "/images/real/ads-02.jpg",
+    alt: "Nhân sự bảo vệ trong ca trực tại khu vực vận hành",
+    caption: "Giữ nhịp vận hành ổn định trong từng ca trực",
   },
   {
-    src: "/images/real/factory-lineup.jpg",
-    alt: "Đội ngũ bảo vệ triển khai tại khu vực nhà máy",
-    caption: "Triển khai lực lượng tại nhà máy",
+    src: "/images/real/ads-03.jpg",
+    alt: "Tác phong đội ngũ bảo vệ tại điểm kiểm soát",
+    caption: "Tác phong đồng bộ tại các điểm kiểm soát",
   },
 ];
 
@@ -203,21 +203,21 @@ export const projects = [
     title: "Kiểm soát cổng xuất nhập và tuyến tuần tra nội bộ",
     description:
       "Thiết lập chốt bảo vệ tại cổng chính, khu kho và các tuyến nhạy cảm trong khuôn viên.",
-    image: "/images/real/factory-lineup.jpg",
+    image: "/images/real/ads-04.jpg",
   },
   {
     type: "Tòa nhà văn phòng",
     title: "Duy trì hình ảnh chuyên nghiệp tại sảnh và khu vực chung",
     description:
       "Kết hợp kiểm soát an ninh với hỗ trợ điều phối khách ra vào trong giờ cao điểm.",
-    image: "/images/real/briefing-room.jpg",
+    image: "/images/real/ads-05.jpg",
   },
   {
     type: "Công trường xây dựng",
     title: "Bảo vệ vật tư, máy móc và kiểm soát người ra vào ngoài giờ",
     description:
       "Tập trung giảm thất thoát, nâng cao kỷ luật công trường và xử lý nhanh các tình huống bất thường.",
-    image: "/images/real/construction-site-team.jpg",
+    image: "/images/real/ads-06.jpg",
   },
 ];
 
@@ -265,39 +265,56 @@ export const testimonials = [
 
 export const companyGallery = [
   {
-    src: "/images/real/hero-meeting-wide.jpg",
-    alt: "Đội ngũ bảo vệ họp triển khai tại phòng họp",
-    caption: "Họp triển khai phương án tại phòng điều hành",
+    src: "/images/real/ads-07.jpg",
+    alt: "Hình ảnh tác nghiệp bảo vệ tại doanh nghiệp",
+    caption: "Phối hợp tác nghiệp theo quy trình chuẩn",
+    featured: true,
   },
   {
-    src: "/images/real/team-rollcall-night.jpg",
-    alt: "Đội ngũ bảo vệ điểm danh nhận nhiệm vụ ngoài hiện trường",
-    caption: "Điểm danh và giao nhiệm vụ đầu ca",
+    src: "/images/real/ads-08.jpg",
+    alt: "Đội ngũ bảo vệ kiểm soát khu vực mục tiêu",
+    caption: "Kiểm soát khu vực theo checklist đầu ca",
   },
   {
-    src: "/images/real/factory-lineup.jpg",
-    alt: "Đội ngũ bảo vệ đứng đội hình tại khuôn viên nhà máy",
-    caption: "Bố trí lực lượng tại khu công nghiệp",
+    src: "/images/real/ads-09.jpg",
+    alt: "Nhân sự bảo vệ tại khu vực vận hành nội bộ",
+    caption: "Bố trí lực lượng linh hoạt theo mục tiêu",
   },
   {
-    src: "/images/real/construction-site-team.jpg",
-    alt: "Đội bảo vệ tại công trường xây dựng",
-    caption: "Triển khai tại công trường xây dựng",
+    src: "/images/real/ads-10.jpg",
+    alt: "Hình ảnh đội bảo vệ triển khai tại công trình",
+    caption: "Triển khai thực địa tại các khu vực trọng điểm",
   },
   {
-    src: "/images/real/gate-guard-team.jpg",
-    alt: "Bảo vệ đứng vị trí tại cổng ra vào mục tiêu",
-    caption: "Kiểm soát cổng và khu vực mục tiêu",
+    src: "/images/real/ads-11.jpg",
+    alt: "Nhân sự bảo vệ kiểm soát lối ra vào",
+    caption: "Kiểm soát lối vào và khu vực nhạy cảm",
   },
   {
-    src: "/images/real/monitoring-desk.jpg",
-    alt: "Nhân sự bảo vệ trực bàn giám sát và theo dõi mục tiêu",
-    caption: "Trực giám sát và theo dõi vận hành",
+    src: "/images/real/ads-12.jpg",
+    alt: "Đội ngũ bảo vệ trong ca trực đêm",
+    caption: "Duy trì an ninh liên tục theo từng khung giờ",
+    featured: true,
   },
   {
-    src: "/images/real/briefing-room.jpg",
-    alt: "Buổi họp nhanh nghiệp vụ của đội ngũ bảo vệ",
-    caption: "Trao đổi nghiệp vụ và phối hợp nội bộ",
+    src: "/images/real/ads-13.jpg",
+    alt: "Khoảnh khắc tác nghiệp của đội bảo vệ tại hiện trường",
+    caption: "Tác phong nghiệp vụ tại hiện trường thực tế",
+  },
+  {
+    src: "/images/real/ads-14.jpg",
+    alt: "Nhân sự bảo vệ trực chốt tại khu vực doanh nghiệp",
+    caption: "Trực chốt và điều phối theo tuyến tuần tra",
+  },
+  {
+    src: "/images/real/ads-15.jpg",
+    alt: "Hoạt động bảo vệ trong môi trường làm việc thực tế",
+    caption: "Đảm bảo an ninh xuyên suốt tại mục tiêu",
+  },
+  {
+    src: "/images/real/ads-16.jpg",
+    alt: "Hình ảnh đội ngũ bảo vệ thực hiện nhiệm vụ giám sát",
+    caption: "Giám sát thực địa và xử lý tình huống nhanh",
   },
 ];
 

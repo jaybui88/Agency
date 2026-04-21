@@ -30,7 +30,7 @@ export default function AboutPage() {
         eyebrow="GIỚI THIỆU"
         title="Một đơn vị bảo vệ chuyên nghiệp phải tạo ra cảm giác yên tâm ngay từ cách vận hành."
         description="Anh Duong Security được xây dựng theo định hướng doanh nghiệp dịch vụ hiện đại: tác phong chuẩn mực, phản ứng nhanh và quy trình có thể kiểm chứng trong thực tế."
-        image="/images/company/about-hero.jpg"
+        image="/images/real/ads-17.jpg"
         imageAlt="Đội ngũ bảo vệ Anh Duong Security trong môi trường triển khai thực tế"
         imageCaption="Đội ngũ được đào tạo bài bản, tác phong thống nhất và sẵn sàng ứng trực theo quy trình."
       />
