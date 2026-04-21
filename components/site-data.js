@@ -250,16 +250,16 @@ export const featuredClients = [
 
 export const partnerTargets = [
   {
-    src: "/images/partners/target-site-01.jpg",
-    alt: "Đội bảo vệ triển khai tại công trường mục tiêu An Bình, Trần Phú, Hải Phòng",
-    title: "Mục tiêu công trường An Bình",
-    location: "An Bình, Trần Phú, Hải Phòng",
+    src: "/images/partners/tinh-loi-target.jpg",
+    alt: "Mục tiêu bảo vệ tại Công ty TNHH May Tinh Lợi ở khu công nghiệp Nam Sách, Hải Dương",
+    title: "Công ty TNHH May Tinh Lợi",
+    location: "KCN Nam Sách, Hải Dương",
   },
   {
-    src: "/images/partners/target-site-02.jpg",
-    alt: "Đội bảo vệ trực cổng ra vào tại dự án ở Quảng Yên, Quảng Ninh",
-    title: "Mục tiêu cổng dự án Quảng Yên",
-    location: "Thị xã Quảng Yên, Quảng Ninh",
+    src: "/images/partners/top-textiles-target.jpg",
+    alt: "Mục tiêu bảo vệ tại Top Textiles Limited trong khu công nghiệp Rạng Đông, Nam Định",
+    title: "Top Textiles Limited",
+    location: "KCN Rạng Đông, Nam Định",
   },
 ];
 
