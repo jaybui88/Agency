@@ -248,6 +248,21 @@ export const featuredClients = [
   },
 ];
 
+export const partnerTargets = [
+  {
+    src: "/images/partners/target-site-01.jpg",
+    alt: "Đội bảo vệ triển khai tại công trường mục tiêu An Bình, Trần Phú, Hải Phòng",
+    title: "Mục tiêu công trường An Bình",
+    location: "An Bình, Trần Phú, Hải Phòng",
+  },
+  {
+    src: "/images/partners/target-site-02.jpg",
+    alt: "Đội bảo vệ trực cổng ra vào tại dự án ở Quảng Yên, Quảng Ninh",
+    title: "Mục tiêu cổng dự án Quảng Yên",
+    location: "Thị xã Quảng Yên, Quảng Ninh",
+  },
+];
+
 export const testimonials = [
   {
     quote:

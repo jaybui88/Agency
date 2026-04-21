@@ -1,4 +1,5 @@
-import { featuredClients, testimonials } from "./site-data";
+import Image from "next/image";
+import { featuredClients, partnerTargets, testimonials } from "./site-data";
 
 export default function ClientsSection() {
   return (
@@ -18,6 +19,25 @@ export default function ClientsSection() {
           <article key={client.name} className="client-logo-card">
             <span>{client.name}</span>
             <small>{client.sector}</small>
+          </article>
+        ))}
+      </div>
+
+      <div className="client-target-grid">
+        {partnerTargets.map((target) => (
+          <article key={target.src} className="client-target-card">
+            <div className="client-target-media">
+              <Image
+                src={target.src}
+                alt={target.alt}
+                fill
+                sizes="(max-width: 1040px) 100vw, 50vw"
+              />
+            </div>
+            <div className="client-target-copy">
+              <h3>{target.title}</h3>
+              <p>{target.location}</p>
+            </div>
           </article>
         ))}
       </div>
