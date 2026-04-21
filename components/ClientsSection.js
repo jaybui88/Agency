@@ -3,7 +3,7 @@ import { featuredClients, partnerTargets, testimonials } from "./site-data";
 
 export default function ClientsSection() {
   return (
-    <section className="section">
+    <section className="section" id="khach-hang">
       <div className="section-heading split">
         <div>
           <p className="eyebrow">KHÁCH HÀNG TIÊU BIỂU</p>
